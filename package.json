@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-tailwind-typescript-starter",
+  "name": "store-front-fs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "xDecus",
+  "author": "ianeli1",
   "license": "MIT",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
